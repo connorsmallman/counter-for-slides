@@ -6,4 +6,4 @@ import CounterWithAsyncObservable from './Counter.Observable';
 import CounterWithStyles from './Counter.Styled';
 import CounterWithFlow from './Counter.Flow';
 
-ReactDOM.render(<CounterWithFlow backgroundColor='pink' />, document.getElementById('root'));
+ReactDOM.render(<Counter />, document.getElementById('root'));
